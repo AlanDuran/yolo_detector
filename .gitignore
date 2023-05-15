@@ -1,0 +1,6 @@
+datasets/vehicle_dataset/
+datasets/video
+runs/
+.idea
+__pycache__/
+trained_models/yolov8*
